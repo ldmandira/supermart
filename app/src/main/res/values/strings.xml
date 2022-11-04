@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">minimart</string>
+    <string name="stbt">Start</string>
+    <string name="todo">TODO</string>
+    <string name="sign">SIGN</string>
+    <string name="loging">LOGING</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="to_supermat">To SuperMat</string>
+    <string name="get_start">Get Start</string>
+    <string name="welcome">WELCOME</string>
+    <string name="better_solution_at_your_fingertip">Better solution at your fingertip</string>
+    <string name="submit">signmeu</string>
+    <string name="intro_text">intro_text</string>
+    <string name="stop_start_qreader">\@string/stop_start_qreader</string>
+    <string name="restart_activity">\@string/restart_activity</string>
+</resources>
