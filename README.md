@@ -5,7 +5,8 @@ In this project my part is to create qr code scanner and generate the qr of item
 
 ![Screenshot (272)](https://user-images.githubusercontent.com/68580812/199956084-9622d366-3cfe-424d-aa99-b4ce78f87755.png)
 
-![image](https://user-images.githubusercontent.com/68580812/199956208-a52c5aaa-6566-45b1-b764-680ae2956e0e.png)
+![Screenshot (275)](https://user-images.githubusercontent.com/68580812/199957269-950d2c97-1d8b-4429-80da-b2465be4f0fb.png)
+
 
 
 
